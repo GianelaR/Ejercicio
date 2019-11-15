@@ -17,9 +17,8 @@ public class Ejercicio {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        int a=3:
-        
-         
+       int a=3;int b=6
+       int suma;
     }
     
 }
